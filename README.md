@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Next.js , Python**
 
+- 👨‍💻 All of my projects are available at [https://saad-portfolio-js.netlify.app/](https://saad-portfolio-js.netlify.app/)
+
 - 💬 Ask me about **react, vite-react.js, node.js, mongoDB,express, jwt,firebase**
 
 - 📫 How to reach me **saadmec1@gmail.com**
